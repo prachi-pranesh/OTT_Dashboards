@@ -45,7 +45,7 @@ The data for this dashboard is sourced from an Excel file that includes the foll
 - `IMDb`: IMDb rating of the show.
 - `awards_won`: Awards won by the show (if any).
  ## DASHBOAARD 
- [Download the Dashboard Documentation (PDF)](https://your-hosting-url.com/path-to-your-pdf-file.pdf)
+ [The OTT Dashboard for Netflix, Hotstar and Prime(PDF)]([https://github.com/prachi-pranesh/OTT_Dashboards/blob/main/ott%20dashboard_power%20bi_pdf%20readme.pdf])
 
 
 ## How to Use
