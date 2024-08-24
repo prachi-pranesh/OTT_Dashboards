@@ -46,11 +46,11 @@ The data for this dashboard is sourced from an Excel file that includes the foll
 - `awards_won`: Awards won by the show (if any).
  ## DASHBOARD 
  [The OTT Dashboard for Netflix, Hotstar and Prime(PDF)](https://github.com/prachi-pranesh/OTT_Dashboards/blob/main/ott%20dashboard_power%20bi_pdf%20readme.pdf)
- ### HOTSTAR 
+**HOTSTAR** 
  <img src="https://github.com/prachi-pranesh/OTT_Dashboards/blob/main/Photos_pp/ott/hotstar_dashboard.jpg" width="1000" height="500" />
-  ### NETFLIX
+ **NETFLIX**
  <img src="https://github.com/prachi-pranesh/OTT_Dashboards/blob/main/Photos_pp/ott/netflix_dasboard.jpg" width="1000" height="500" />
-  ### AMAZON PRIME  
+ **AMAZON PRIME**  
  <img src="https://github.com/prachi-pranesh/OTT_Dashboards/blob/main/Photos_pp/ott/prime_dashboard.jpg" width="1000" height="500" />
 
 
