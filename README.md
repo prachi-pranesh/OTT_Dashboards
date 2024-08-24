@@ -44,6 +44,9 @@ The data for this dashboard is sourced from an Excel file that includes the foll
 - `description`: Brief description or synopsis of the show.
 - `IMDb`: IMDb rating of the show.
 - `awards_won`: Awards won by the show (if any).
+ ## DASHBOAARD 
+ [Download the Dashboard Documentation (PDF)](https://your-hosting-url.com/path-to-your-pdf-file.pdf)
+
 
 ## How to Use
 
